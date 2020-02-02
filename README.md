@@ -19,6 +19,8 @@ When talking about growth, is important to remember the following:
 And as Gandhi once said; 
 > Happiness is when what you think, what you say, and what you do are in harmony.
 
+![Gandhi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwisdomquotes.com%2Fgandhi-quotes%2F&psig=AOvVaw0IK-AKG-9yuHcpyxZJ_WSP&ust=1580726561171000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD_r9fXsucCFQAAAAAdAAAAABAP)
+
 
 It is also mandatory that you keep positive lines in your mind to push yourself further whenever you get stuck.
 1. Whenever you think of giving up, push yourself forward and never give up!
