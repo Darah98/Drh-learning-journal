@@ -1,5 +1,6 @@
-## Sunday Feb 2, 2020
-## Lab 01b-Learning Markdown
+## LEARNING JOURNAL
+#### Sunday Feb 2, 2020
+#### Lab 01b-Learning Markdown
 
 *This is Darah, 21*
 
