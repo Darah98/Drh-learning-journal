@@ -20,7 +20,7 @@ When talking about growth, is important to remember the following:
 And as Gandhi once said; 
 > Happiness is when what you think, what you say, and what you do are in harmony.
 
-![Gandhi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwisdomquotes.com%2Fgandhi-quotes%2F&psig=AOvVaw0IK-AKG-9yuHcpyxZJ_WSP&ust=1580726561171000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD_r9fXsucCFQAAAAAdAAAAABAP)
+![Gandhi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news24.com%2FSouthAfrica%2FNews%2Fcity-of-cape-town-to-push-ahead-with-gandhi-statue-proposal-despite-majority-of-public-comments-being-negative-20190926&psig=AOvVaw1MMhCBUZjiewf4pj5nfFyW&ust=1580727086620000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDY2L_ZsucCFQAAAAAdAAAAABAD)
 
 
 It is also mandatory that you keep positive lines in your mind to push yourself further whenever you get stuck.
