@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Lab 01b-Learning Markdown
+## Sunday Feb 2, 2020
 
-You can use the [editor on GitHub](https://github.com/Darah98/Drh-learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*This is Darah, 21*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Today's topic is about the path to success**
+Climbing up the ladder of success is not easy at all, but having a growth mindset makes it easier for people to reach the top. To have a growth mindset means to think positively and have a better way of approaching hardships throughout the journy.
+When talking about growth, is important to remember the following:
+* Think positive
+* Grow everyday
+* Face obstacles 
+* Get inspired by successful people
+* Learn
+ * try new experiences
+ * meet new people
 
-### Markdown
+It is also mandatory that you keep positive lines in your mind to push yourself further whenever you get stuck.
+1. Whenever you think of giving up, push yourself forward and never give up!
+2. If you ever feel down because others are achieving and you are not, you be sure they were stuck at some point before getting there eventually.. so push harder!
+3. The ultimate discouragement is fear! So whenever you feel scared, just calm yourself down and focus on achieving tasks in smaller piles. That way you will get things done!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> If you want to read more, please visit my blog at [Github] (https://github.com/Darah98/Drh-learning-journal/edit/master/README.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Darah98/Drh-learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
