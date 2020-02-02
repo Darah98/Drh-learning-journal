@@ -25,5 +25,5 @@ It is also mandatory that you keep positive lines in your mind to push yourself 
 2. If you ever feel down because others are achieving and you are not, you be sure they were stuck at some point before getting there eventually.. so push harder!
 3. The ultimate discouragement is fear! So whenever you feel scared, just calm yourself down and focus on achieving tasks in smaller piles. That way you will get things done!
 
- If you want to read more, please visit my [BLOG!](https://github.com/Darah98/Drh-learning-journal/edit/master/README.md)
+ If you want to read more, please visit my [BLOG!](https://darah98.github.io/Drh-learning-journal/)
 
