@@ -1,4 +1,6 @@
 # Reflection and Discussions
+### Reading 03
+### Mon Fed 3
 
 
   In this reading, the main focus was on the process of linking and explaining what lies behind the whole cloud-developer relationship. It is super important that developers make sure every step they take is recorded and backed up. To achieve safety and secure the codes and information, developers link themselves to a larger networking system that can keep their data and different versions of work they have created. 
