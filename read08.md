@@ -3,18 +3,19 @@
 Regarding **Comparison Operators**, we are talking here about using signs like =, !, >, <, etc. We use these operators to evaluate a situation by comparing one value in the script to what expect it might be. 
 **What is Boolean?** Means *true* of *false*, these are the possible answers to the comparisons.
 
-***Tranlation Guide for ~Dummies~ Beginners:***
+***Tranlation Guide for Beginners:***
 * **= =** : equal to
 * **! =** : is not equal to 
 * **= = =** : strict equal to
 * **! = =** : strict not equal
 * **>** : greater than
-* **< :** less than
+* **<** : less than
 * **>** = : greater than or equal to 
 * **< =** : less than or equal to
 
 **What is a logical operator?** 
-Operators used to compare results of more than one comparison operator. i.e AND && / OR && / NOT ! logical operators.
+Operators used to compare results of more than one comparison operator. i.e AND **&&** / OR **
+**|****|** / NOT **!** logical operators.
 
 ### &&
 * T **&&** T = T
@@ -23,10 +24,10 @@ Operators used to compare results of more than one comparison operator. i.e AND 
 * F **&&** F = F
 
 ### ||
-* T **| |** T = T
-* T **| |** F = T
-* F **| |** T = T
-* F **| |** F = F
+* T **|** **|** T = T
+* T **|** **|** F = T
+* F **|** **|** T = T
+* F **|** **|** F = F
 
 ### ! 
 * !T = F
