@@ -18,6 +18,7 @@ It is important to keep track of the pages you vists and topics you check. Make 
 1. Growth Mindset in Developing world. [Check topic here.](topicone.md)
 2. Types of Languages. [See topic here](rdng02.md)
 3. Cloud-developer relationship. [Check Link here.](rdng03.md)
+3. Lab03 New Learnings. [lab03](lab03learnings.md)
 4. New Learnings. [Visit Here](newlearnings.md)
 5. New Learnings for read05. [Rdng05](read5newlearnings.md)
 6. New Learnings for read06. [Rdng06a](read06alearnings.md)
