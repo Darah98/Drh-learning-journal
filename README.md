@@ -20,6 +20,7 @@ It is important to keep track of the pages you vists and topics you check. Make 
 3. Cloud-developer relationship. [Check Link here.](rdng03.md)
 4. New Learnings. [Visit Here](newlearnings.md)
 5. New Learnings for read05. [Rdng05](read5newlearnings.md)
+6. New Learnings for read06. [Rdng06a](read06alearnings.md)
 4. 5 Ways of becoming a better developer. [What! How?](https://www.youtube.com/watch?v=DSfYggOdldk)
 
 
