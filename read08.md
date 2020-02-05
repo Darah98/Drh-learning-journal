@@ -14,7 +14,7 @@ Regarding **Comparison Operators**, we are talking here about using signs like =
 * **< =** : less than or equal to
 
 **What is a logical operator?** 
-Operators used to compare results of more than one comparison operator. i.e AND **&&** / OR **
+Operators used to compare results of more than one comparison operator. i.e AND **&&** / OR 
 **|****|** / NOT **!** logical operators.
 
 ### &&
@@ -23,11 +23,7 @@ Operators used to compare results of more than one comparison operator. i.e AND 
 * F **&&** T = F
 * F **&&** F = F
 
-### ||
-* T **|** **|** T = T
-* T **|** **|** F = T
-* F **|** **|** T = T
-* F **|** **|** F = F
+
 
 ### ! 
 * !T = F
