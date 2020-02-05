@@ -24,7 +24,7 @@ It is important to keep track of the pages you vists and topics you check. Make 
 6. New Learnings for read06. [Rdng06a](read06alearnings.md)
 6. New Learningd for read06. [Rdng06b](read06blearnings)
 7. New Learnings for read07. [Rdng07](Read07.md)
-8. New Learnings for read08. [Rdng08](read08.md)
+8. New Learnings for read08. [Rdng08](Read08.md)
 4. 5 Ways of becoming a better developer. [What! How?](https://www.youtube.com/watch?v=DSfYggOdldk)
 
 
